@@ -1,8 +1,8 @@
 # frozen_string_literal: true
 
-RSpec.describe Simbora do
+RSpec.describe Bee do
   it "has a version number" do
-    expect(Simbora::VERSION).not_to be nil
+    expect(Bee::VERSION).not_to be nil
   end
 
   it "does something useful" do
